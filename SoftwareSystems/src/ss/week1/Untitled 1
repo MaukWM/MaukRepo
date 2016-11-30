@@ -1,0 +1,104 @@
+1.5 Title = String
+	Composer = String
+	Performer = String
+	Playing time = Integer
+	
+---
+
+1.5 a) When it is occupied
+	b) Name of the book
+	c) Price of the backpack
+	d) Color of the backpack
+	e) Speed of the elevator
+	
+1.6 a) What class is going on in this classroom right now? -- String
+	b) What is the name of the book? -- String
+	c) What is the price of this backpack -- Integer or double
+	d) What is the color of the backpack? -- String
+	e) What is the speed of the elevator? -- Integer
+	
+1.7 a) Change which class will be in session at what moment, it will
+modify what class has lessons when.
+	b) If someone is borrowing the book you can change the value of it
+being available to lend, it will change it's availability.
+	c) The backpack will be on sale, so the price will go down. It
+will change the price of the backpack.
+	d) We want to modify the color of the backpack. This of course
+changes the color of the backpack.
+	e) We change the weight of the elevator, which increases its weight.
+	
+1.8 a) Name of automobile manufacturer and how long they have been
+in business.
+	b) Max speed and brand
+	c) Name of the movie and rental price.
+	d) Name of the costumer and email/mobile.
+	
+1.9 a) Total of workers - primitive
+	   Their newest car - reference
+	b) Name of a car - reference
+	   Price of the car - primitive
+	c) Price to rent video - primitive
+	   Position of video in store - reference
+	d) Date the customer has to return video - reference
+	   Phone number of costumer - primitive
+	   
+*****
+
+1.2
+An integer is associated with the setting.
+It should support a command to change the setting, for example:
+"Change the setting to setting X"
+
+2.4
+
+
+
+***
+1.8
+***
+
+public void passed () {
+	if score > 70
+		return True;
+	else
+		return False;
+}
+
+***
+1.17
+***
+
+The password has a requirement to be atleast 6 characters with no spaces, so it must be contstructed this way aswell
+, this is why "" is not acceptable and INITIAL is.
+
+***
+1.18
+***
+
+It must be declared public because PasswordTest.java has to make use of the password to test the functions of Passwords.java, if it is private
+it can't do so.
+
+***
+1.19
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	   
+	

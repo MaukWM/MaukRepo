@@ -1,0 +1,18 @@
+1.13
+
+What is included in JavaDoc are all the source files with their JavaDoc comments formatted
+in a way that is easy to follow. Opening up Guest.java that was made previously shows
+a short description with version number and author. Underneath that you find the 
+Constructor summary, which shows the constructor and the linked comment. After that the
+method summary, showing all methods with their comments. After that there is a more detailed
+viewing showing what a method Returns and Parameters if included and a more detailed
+explanation.
+
+This is very useful because it allows you to keep track of your project in a good to follow
+way, and one can immediately see what specific methods do without having to go through the
+code themselves.
+
+1.14
+java.lang is the package that contains the class String.
+There are 15 constructors.
+There are 65 methods.

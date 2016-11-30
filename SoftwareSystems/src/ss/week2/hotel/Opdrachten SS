@@ -1,0 +1,18 @@
+2.11
+method covered the most was open with everything green but yellow asserts.
+least covered was activate with the if statement yellow, 1 of 4 branches missed.
+
+This is because one of the combinations was not covered, probably the one where
+an active safe tries to get activated with incorrect password.
+
+It is a problem that some classes get covered 0% because it means they were not
+tested at all.
+
+I tried to add more tests to activate but none seemed to get the last branch.
+
+2.12
+-ea means that it runs the java program with the asserts, and throws an error when
+a precondition is not met.
+
+The first run had no errors because it ran without checking the asserts, the second
+run did give an error because it checked the assert statements.
